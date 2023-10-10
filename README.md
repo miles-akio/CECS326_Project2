@@ -16,6 +16,7 @@ For DiningServer.java:
     - We created this file which essentially creates the DiningServer interface where we will call and utilize the philosopher class to help to determine whether they are wish to eat or are finished eating
 
 For DiningServerImpl.java:
+
     - We created this file which essentially creates the DiningServerImpl class which is an extension of the DiningServer class once implemented. 
     - Within it we identify many voids such as takeForcks and returnForks which helps to determine and keep count of what type of action each philosopher did
     - In addition, we created a DiningServerImpl class at the beginning to identify the values of forks and conditions to identify the state that the fork is in
